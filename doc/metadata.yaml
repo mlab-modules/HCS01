@@ -6,5 +6,6 @@ homepage: false
 images:
 - doc/img/HCS01A_QRcode.png
 mark: 50
+status: 0
 tags: []
 title: HCS01
