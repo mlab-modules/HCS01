@@ -8,9 +8,7 @@
 <!--- Label --->
 <!--- ELabel ---> 
 <!--- Name:HCS01A: --->
-# HCS01A
-<!--- LongName --->
-## High Current Sensor
+# HCS01 - High Current Sensor
 <!--- ELongName ---> 
 
 <!--- Lead --->
@@ -19,9 +17,3 @@
 
 ![HCS01A](doc/img/HCS01A_QRcode.png) 
 
-
-<!--- Description --->
-<!--- EDescription --->
-<!--- Content --->
-<!--- EContent --->
-<sub><sup> Generated with [MLABweb](https://github.com/MLAB-project/MLABweb). (2019-02-18)</sup></sub>
